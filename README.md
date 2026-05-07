@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parampreetchahal
 - 👀 I’m interested in Learn about AI
-- 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on tech companies
 - 📫 How to reach me parampreets537@gmail.com
 - 😄 Pronouns: param
