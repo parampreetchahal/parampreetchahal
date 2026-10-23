@@ -1,43 +1,38 @@
-# 👋 Hey, I'm Parampreet Singh
+# Parampreet Singh
 
----
+**Machine Learning & Computer Vision Engineer | Python · OpenCV · TensorFlow · Flask**
 
-## 💡 About Me
+Computer Science graduate (B.Tech, Graphic Era Hill University, 2026; CGPA 8.8/10) interested in developing practical machine-learning and computer-vision applications.
 
-- 🔭 Currently working on AI & Deep Learning Projects
-- 🌱 Exploring Machine Learning, Computer Vision & Generative AI
-- 🤖 Interested in AI-powered real-world solutions
-- 🛠️ Building projects using Python, TensorFlow, YOLOv8 & Flask
-- 💻 Passionate about Problem Solving & Development
-- 🎯 Goal: Become a skilled AI Engineer
+## About Me
 
----
+- Completed a computer-vision internship at **DRDO IRDE**, working on real-time video stitching using ORB feature detection, FLANN feature matching and RANSAC-based homography estimation.
+- Built **PestGuard**, an image-based pest detection application combining deep learning with a Flask web interface.
+- Developed an attendance-processing application that processes Microsoft Teams CSV exports and generates structured reports.
+- Interested in computer vision, model evaluation, Python backend development and ML deployment.
 
-## 🚀 Tech Stack
+## Technical Skills
 
-### 👨‍💻 Languages
-- Python
-- C++
-- JavaScript
-- C
+- **Languages:** Python, C++, Java, SQL
+- **Machine Learning & Computer Vision:** TensorFlow/Keras, OpenCV, scikit-learn, NumPy, Pandas, CNNs, EfficientNet, ORB, FLANN, RANSAC
+- **Backend & Data:** Flask, REST APIs, MySQL, SQLAlchemy, Supabase, Redis
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
-### 🤖 AI / ML
-- TensorFlow
-- Keras
-- OpenCV
-- Scikit-learn
-- YOLOv8
+## Featured Project
 
-### 🌐 Web Development
-- HTML
-- CSS
-- React
-- Flask
+### Online Class Attendance Taker
 
-### 🛠️ Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Kaggle
-- Google Colab
+A Flask application that processes Microsoft Teams attendance CSV files, calculates attendance duration, matches student details against a database and generates reports.
 
+- **Technologies:** Python, Flask, Pandas, SQLAlchemy, MySQL
+- **Repository:** [View source code](https://github.com/parampreetchahal/Online-Attendance-Taker)
+
+## Career Interests
+
+Seeking entry-level opportunities in machine learning, computer vision and Python engineering.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/parampreet-singh23)
+- [Portfolio](https://parampreetsingh.netlify.app)
+- Email: parampreets537@gmail.com
